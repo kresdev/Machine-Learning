@@ -1,3 +1,6 @@
 *.pyc
 */data.*
 */data
+*/_MACOSX/*
+*/data/*
+*/.ipnyb_checkpoints/*
